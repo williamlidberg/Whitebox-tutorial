@@ -13,6 +13,7 @@ Reproducibility is a major principle of the scientific method and it is even mor
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Whitebox-tutorial/blob/main/Whitebox_tools_in_colab.ipynb)
 
+## Links
 WhiteboxTools: https://github.com/jblindsay/whitebox-tools
 
 PyPI: https://pypi.org/project/whitebox/
