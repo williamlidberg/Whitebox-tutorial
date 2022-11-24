@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/William_Lidberg?style=social)](https://twitter.com/william_lidberg)
 
 
-# Topographical-modeling-for-hydrological-features
+# Whitebox-tutorial
 A guide for dummies by William Liberg
 
 ![alt text](images/Fores_dark.png)
