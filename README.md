@@ -19,3 +19,5 @@ WhiteboxTools: https://github.com/jblindsay/whitebox-tools
 PyPI: https://pypi.org/project/whitebox/
 
 Contact: William.lidberg@slu.se
+
+Lindsay JB. 2016. The practice of DEM stream burning revisited. Earth Surface Processes and Landforms, 41(5): 658–668. DOI: 10.1002/esp.3888
